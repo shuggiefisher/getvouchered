@@ -1,0 +1,9 @@
+nodejs server 
+sencha touch client ui
+
+to run 
+- ensure you have node installed
+- then type 'node index.js'
+- then head over to http://localhost:3000
+
+intended to run in browsers on mobile devices
